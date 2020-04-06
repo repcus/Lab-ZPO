@@ -1,0 +1,42 @@
+[
+	{
+		"question":"krzyczeć",
+		"answers":["cry", "shout", "scream"]
+	},
+	{
+		"question":"śmierć",
+		"answers":["death", "passing", "quietus"]
+	},
+	{
+		"question":"ból",
+		"answers":["pain", "sore", "ache", "hurt"]
+	},
+	{
+		"question":"tortura",
+		"answers":["torture", "torment"]
+	},
+	{
+		"question":"krew",
+		"answers":["blood"]
+	},
+	{
+		"question":"masakra",
+		"answers":["massacre", "carnage", "butchery"]
+	},
+	{
+		"question":"dręczyć",
+		"answers":["torment", "rack", "bother"]
+	},
+	{
+		"question":"koszmar",
+		"answers":["nightmare", "incubus"]
+	},
+	{
+		"question":"żałoba",
+		"answers":["mourning", "bereavement"]
+	},
+	{
+		"question":"porzucić",
+		"answers":["abandon", "desert", "leave"]
+	}
+]
